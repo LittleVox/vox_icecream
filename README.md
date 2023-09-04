@@ -1,11 +1,11 @@
-# **Welcome to Polar Ice!** :icecream: 
+![image](https://github.com/LittleVox/vox_icecream/assets/109478572/296883c6-d9c4-4cb4-9f64-a3122304decb)# **Welcome to Polar Ice!** :icecream: 
 My First Release!
 Get this MLO for free!
 This map is optimised and should work without any issues!
 *Enjoy!* 
 
 
-https://forum.cfx.re/uploads/default/original/4X/7/0/0/70046e8fbfa6c57f37b4c6835c0eb52b57a76795.jpeg
+https://cdn.discordapp.com/attachments/1148061390632914984/1148061520215941140/Polar_ice.png
 
 
 
